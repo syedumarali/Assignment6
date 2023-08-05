@@ -1,3 +1,4 @@
 # Assignment6 Link
-assignments7githublink.netlify.app
+
+https://assignments7githublink.netlify.app/
 
