@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .card {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .card img {
+    width: 100%;
+    max-height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  .card h3 {
+    margin-top: 10px;
+    color: #333;
+  }
+  
+  .card p {
+    color: #666;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Borel&family=Germania+One&family=Golos+Text:wght@700&display=swap');
+
+@font-face {
+    font-family:My Font;
+    src: url();
+}
+
+*{
+    font-family: "Borel";
+}
+.box > h1{
+    color: black;
+    /* background-color:rgb(34, 112, 147);
+    font-family: My Font;
+    font-size: 200%;
+    /* opacity:0.2; }
+    
+
+
+.box > h2{
+    color: blueviolet;
+    font-family: 'Golos Text', sans-serif;
+}
+.box > p{
+    color: brown;   
+}
+.box a{
+    color: black;
+} */
+
+
+/* .one {
+    color: aqua;
+
+}
+.two {
+    color: blueviolet;
+
+}
+.three {
+    color: brown;
+
+} */
